@@ -20,12 +20,6 @@ Official implementation of **PreLora**, a novel fine-tuning approach that combin
 ## 📋 Table of Contents
 
 - [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Methodology](#methodology)
-- [Usage Examples](#usage-examples)
-- [Performance](#performance)
-- [Citation](#citation)
-- [License](#license)
 
 ## 🛠 Installation
 
@@ -41,4 +35,5 @@ Official implementation of **PreLora**, a novel fine-tuning approach that combin
 git clone https://github.com/your-username/prelora.git
 cd prelora
 pip install -r requirements.txt
+
 
