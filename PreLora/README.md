@@ -17,9 +17,6 @@ Official implementation of **PreLora**, a novel fine-tuning approach that combin
 - **⚡ Easy Integration**: Simple API for quick adaptation to existing pipelines
 - **📊 Comprehensive Evaluation**: Includes performance comparison with other fine-tuning methods
 
-## 📋 Table of Contents
-
-- [Installation](#installation)
 
 ## 🛠 Installation
 
@@ -35,5 +32,6 @@ Official implementation of **PreLora**, a novel fine-tuning approach that combin
 git clone https://github.com/your-username/prelora.git
 cd prelora
 pip install -r requirements.txt
+
 
 
